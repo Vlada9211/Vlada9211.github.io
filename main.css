@@ -1,0 +1,20 @@
+body{
+        color: rgb(50, 193, 250);
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    }
+
+    img{
+        width: 100%;
+    }
+
+    .navtop{
+        min-width: 600px;
+    }
+
+    .navtop li{
+        display: inline;
+    }
