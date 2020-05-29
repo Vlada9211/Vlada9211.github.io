@@ -1,1 +1,1 @@
-Vlada9211.github.io/lab1/
+Vlada9211.github.io
